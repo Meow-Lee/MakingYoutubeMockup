@@ -12,3 +12,11 @@
 ● 와이어 프레임 기반 디자인
 
 ● 브라우저 렌더링 원리 파악
+
+## 팀원 작업 브랜치 바로가기
+
+| 팀원 | 담당 브랜치 | 이동 |
+| :--- | :--- | :--- |
+| 이명모 | `feature/mmlee` | [바로가기](tree/feature/mmlee) |
+| 이재훈 | `feature/dashboard` | [바로가기](tree/feature/dashboard) |
+| 원유진 | `feat/api-integration` | [바로가기](tree/feat/api-integration) |
