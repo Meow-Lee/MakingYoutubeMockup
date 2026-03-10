@@ -18,5 +18,6 @@
 | 팀원 | 담당 브랜치 | 이동 |
 | :--- | :--- | :--- |
 | 이명모 | `feature/mmlee` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/mmlee) |
-| 이재훈 | `feature/dashboard` | [바로가기](https://github.com/사용자이름/저장소이름/tree/브랜치이름) |
-| 원유진 | `feat/api-integration` | [바로가기](https://github.com/사용자이름/저장소이름/tree/브랜치이름) |
+| 이재훈 | `feature/jhlee` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/jhlee) |
+| 원유진 | `feature/yjwon` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/yjwon) |
+| 최인서 | `feature/ischoi` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/ischoi) |
