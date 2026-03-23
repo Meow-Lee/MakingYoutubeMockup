@@ -19,5 +19,5 @@
 | :--- | :--- | :--- |
 | 이명모 | `feature/mmlee` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/mmlee) |
 | 이재훈 | `feature/jhlee` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/jhlee) |
-| 원유진 | `feature/yjwon` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/yjwon) |
+| 원유진 | `feature/egwon` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/egwon) |
 | 최인서 | `feature/ischoi` | [바로가기](https://github.com/Meow-Lee/MakingYoutubeMockup/tree/feature/ischoi) |
