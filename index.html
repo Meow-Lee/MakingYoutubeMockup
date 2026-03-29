@@ -4,13 +4,55 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>YouTube-Clone</title>
-    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="general.css" />
+    <link rel="stylesheet" href="header.css" />
+    <link rel="stylesheet" href="side.css" />
+    <link rel="stylesheet" href="main.css" />
   </head>
   <body>
-    <header>
-      <div class="header_left">왼쪽</div>
-      <div class="header_middle">중앙</div>
-      <div class="header_right">오른쪽</div>
+    <header class="header">
+      <div class="header_left">
+        <button class="menu_button">
+          <img class="menu_icon" src="icon/free-icon-menu-5310574.png" />
+        </button>
+        <button class="logo_button">
+          <img class="logo_icon" src="icon/free-icon-youtube-5968852.png" />
+          <div class="logo_text">YouTube</div>
+        </button>
+      </div>
+      <div class="header_middle">
+        <input class="search_bar" type="text" placeholder="검색" />
+        <button class="search_button">
+          <img
+            class="search_icon"
+            src="icon/free-icon-magnifying-glass-1294924.png"
+          />
+          <div class="tooltip">검색</div>
+        </button>
+        <button class="voice_search_button">
+          <img class="voive_search_icon" src="icon/free-icon-mic-7304859.png" />
+          <div class="tooltip">음성으로 검색</div>
+        </button>
+      </div>
+      <div class="header_right">
+        <button class="create_button">
+          <img class="create_icon" src="icon/free-icon-add-149162.png" />
+          <div class="create_text">만들기</div>
+        </button>
+        <button class="notification_button">
+          <img
+            class="notification_icon"
+            src="icon/free-icon-notification-bell-12328821.png"
+          />
+          <div class="notification_text">5</div>
+        </button>
+        <button class="current_user_button">
+          <img
+            class="current_user_icon"
+            src="icon/free-icon-account-12102111.png"
+          />
+        </button>
+      </div>
     </header>
     <aside class="menu">옆</aside>
     <main class="main_content">
